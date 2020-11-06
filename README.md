@@ -9,31 +9,15 @@
 
 Survey papers introducing HE:
 
-- [A Survey on Homomorphic Encryption Schemes: Theory and Implementation](https://dl.acm.org/doi/10.1145/3214303) - Introduing the development of HE and also several popular HE schemas
-- [Survey on Homomorphic Encryptionand Address of New Trend](https://www.semanticscholar.org/paper/Survey-on-Homomorphic-Encryption-and-Address-of-New-Alharbi-Samkri/6468cffa6d7a1fba27d4e813a0a22531757d1d8a) - With some introduction of HE's application recently
+- [A Survey on Homomorphic Encryption Schemes: Theory and Implementation](https://dl.acm.org/doi/10.1145/3214303) - Introduing the development of HE and also several popular HE schemas.
+- [Survey on Homomorphic Encryptionand Address of New Trend](https://www.semanticscholar.org/paper/Survey-on-Homomorphic-Encryption-and-Address-of-New-Alharbi-Samkri/6468cffa6d7a1fba27d4e813a0a22531757d1d8a) - With some introduction of HE's application recently.
 
 
 HE schemas:
 
-- [Fully Homomorphic Encryption without Bootstrapping](https://eprint.iacr.org/2011/277.pdf) 
-- [Somewhat Practical Fully HomomorphicEncryption](https://eprint.iacr.org/2012/144.pdf)
-- [Homomorphic Encryption from Learning with Errors:Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://eprint.iacr.org/2013/340.pdf)
-- <a name="HElib">[HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
-- [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
-- [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
-- [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
-- [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
-- [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
-- [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
-- [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
-- [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
-- <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.</a>
-- <a name="PALISADE">[PALISADE](https://git.njit.edu/palisade/PALISADE) - lattice encryption library.
-- [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
-- [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
-- [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
-- [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
-- <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
+- [BGV schema](https://eprint.iacr.org/2011/277.pdf) - Fully Homomorphic Encryption without Bootstrapping
+- [FV schema](https://eprint.iacr.org/2012/144.pdf) - Somewhat Practical Fully HomomorphicEncryption
+- [GSW schema](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryption from Learning with Errors:Conceptually-Simpler, Asymptotically-Faster, Attribute-Based
 
 
 ## Multiparty Secure Computation
