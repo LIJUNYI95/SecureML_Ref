@@ -50,52 +50,23 @@ HE for other models:
 
 ## Multiparty Secure Computation
 
-- [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
-- [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
-- [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
-- [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
-- [Marble](https://github.com/MarbleHE/Marble) - A C++ framework that translates between nearly plaintext-style user programs and FHE computations.
-- [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
-- [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE, blockchain and deep / federated learning.
-- [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
+- [Sameer Narahari Wagh (Distributed Logistic Regression)](https://snwagh.github.io/CV/thesis.pdf) - New Directions in EfficientPrivacy­Preserving Machine Learning
 
-## Databases
+## MPC for Deep Learning:
 
-- [CryptDB](https://github.com/CryptDB/cryptdb) - Protecting confidentiality with encrypted query processing.
-- [encrypted-mongodb](https://github.com/pdroalves/encrypted-mongodb) - Wrapper on MongoDB's Python driver that enables to query encrypted data.
-- [Prisma/DB](https://github.com/PrismaDB/PrismaDB) - Security layer for relational database systems.
-- [TimeCrypt](https://github.com/TimeCrypt/timecrypt) - Encrypted time-series database using homomorphic encryption-based access control.
-- [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
+- [SecureML](https://eprint.iacr.org/2017/396.pdf) - SecureML: A System for Scalable Privacy-PreservingMachine Learning
+- [EzPC](https://eprint.iacr.org/2017/1109.pdf) - EzPC: Programmable, Efficient, and ScalableSecure Two-Party Computation for Machine Learning
+- [GAZELLE](https://eprint.iacr.org/2018/073.pdf) - GAZELLE: A Low Latency Framework for SecureNeural Network Inference
+- [ABY3](https://eprint.iacr.org/2018/403.pdf) - ABY3:  A Mixed Protocol Framework for Machine Learning
+- [SecureNN](https://eprint.iacr.org/2018/442.pdf) - SecureNN: 3-Party Secure Computation forNeural Network Training
+- [Flash](https://eprint.iacr.org/2019/1365.pdf) - FLASH: Fast and Robust Framework forPrivacy-preserving Machine Learning
+- [FALCON](https://arxiv.org/pdf/2004.02229.pdf) - FALCON: Honest-Majority Maliciously Secure Frameworkfor Private Deep Learning
+- [AriaNN](https://arxiv.org/pdf/2006.04593.pdf) - ARIANN: Low-Interaction Privacy-PreservingDeep Learning via Function Secret Sharing
 
 
-## Resources
-
-- [Barak, Boaz](https://intensecrypto.org/public/lec_15_FHE.html). Chapter about FHE in Barak's introductory book to Cryptography, used for Harvard CS 127.
-- [Barthelemy, Lucas](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html). Brief survey of Fully HE. 2016.
-- [Chen, Zhigang](https://zhigang-chen.github.io/A%20List%20of%20FHE%20Papers.html). A continuously updated list of FHE papers.
-- [Gentry, Craig](https://crypto.stanford.edu/craig/craig-thesis.pdf). A fully homomorphic encryption scheme. Stanford University, 2009.
-- [HomomorphicEncryption.org](https://homomorphicencryption.org). An open industry, government & academic consortium working on standardization of FHE.
-- [KU Leuven](https://www.esat.kuleuven.be/cosic/tag/cosic-guide-to-crypto/). An introduction to homomorphic encryption.
-- [Micciancio, Daniele](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
-- [Microsoft Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn). Videos from SEAL/CKKS talks at Microsoft's Private AI Bootcamp.
-- [Vaikuntanathan, Vinoid](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
-
-
-## Related awesome lists
-
-- [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
-- [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)
-- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - Multi-Party Computation.
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
+<!-- ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Jonathan Schneider has waived all copyright and
-related or neighboring rights to this work.
+related or neighboring rights to this work. -->
