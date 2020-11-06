@@ -52,9 +52,24 @@ Survey papers introducing HE:
 
 - [Sameer Narahari Wagh](https://snwagh.github.io/CV/thesis.pdf) - New Directions in EfficientPrivacy­Preserving Machine Learning
 
+
+### Garbled Circuit:
+
+- [Yao](https://research.cs.wisc.edu/areas/sec/yao1982-ocr.pdf) - Protocols for Secure Computations
+- [FairplayMP](https://dl.acm.org/doi/10.1145/1455770.1455804) - FairplayMP: a system for secure multi-party computation
+- [Kolesnikov et. al.](https://dl.acm.org/doi/10.1145/1455770.1455804) - Improved Garbled Circuit: Free XOR Gates andApplications
+- [Mohassel et. al.](https://eprint.iacr.org/2015/931.pdf) - Fast and Secure Three-party Computation:The Garbled Circuit Approach
+- [Zahur et. al. ](http://www.cs.virginia.edu/~evans/pubs/ec2015/halfgates.pdf) - Two Halves Make a WholeReducing Data Transfer in Garbled Circuits using Half Gates
+
 ### Function Secret Sharing: 
-- [Function Secret Sharing](https://cs.idc.ac.il/~elette/FunctionSecretSharing.pdf)
-- [Function Secret Sharing:  Improvements and Extensions.](https://eprint.iacr.org/2018/707.pdf)
+- [Boyle et. al.](https://cs.idc.ac.il/~elette/FunctionSecretSharing.pdf) - Function Secret Sharing
+- [Boyle et. al.](https://eprint.iacr.org/2018/707.pdf) - Function Secret Sharing:  Improvements and Extensions.
+- [Boyle et. al.](https://eprint.iacr.org/2018/707.pdf) - Secure Computation with Preprocessing viaFunction Secret Sharing
+
+### Oblivious Transfer:
+
+- [Asharov et. al.](https://eprint.iacr.org/2013/552.pdf) - More Efficient Oblivious Transfer andExtensions for Faster Secure Computation*
+- [Ishai et. al.](https://www.iacr.org/archive/crypto2003/27290145/27290145.pdf) - ExtendingObliviousTransfersE±ciently
 
 ### MPC for Deep Learning:
 
@@ -63,10 +78,14 @@ Survey papers introducing HE:
 - [GAZELLE](https://eprint.iacr.org/2018/073.pdf) - GAZELLE: A Low Latency Framework for SecureNeural Network Inference
 - [ABY3](https://eprint.iacr.org/2018/403.pdf) - ABY3:  A Mixed Protocol Framework for Machine Learning
 - [SecureNN](https://eprint.iacr.org/2018/442.pdf) - SecureNN: 3-Party Secure Computation forNeural Network Training
+- [Riazi et. al.](https://arxiv.org/pdf/1902.07342.pdf) - XONN:XNOR-based Oblivious Deep Neural Network Inference
 - [Flash](https://eprint.iacr.org/2019/1365.pdf) - FLASH: Fast and Robust Framework forPrivacy-preserving Machine Learning
 - [FALCON](https://arxiv.org/pdf/2004.02229.pdf) - FALCON: Honest-Majority Maliciously Secure Frameworkfor Private Deep Learning
 - [AriaNN](https://arxiv.org/pdf/2006.04593.pdf) - ARIANN: Low-Interaction Privacy-PreservingDeep Learning via Function Secret Sharing
 
+### MPC for other models:
+
+- [SANNS(KNN)](https://arxiv.org/pdf/1904.02033.pdf) - SANNS:Scaling Up Secure Approximatek-Nearest Neighbors Search
 
 <!-- ## License
 
