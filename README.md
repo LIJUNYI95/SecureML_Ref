@@ -18,6 +18,7 @@ HE schemas:
 - [BGV schema](https://eprint.iacr.org/2011/277.pdf) - Fully Homomorphic Encryption without Bootstrapping
 - [FV schema](https://eprint.iacr.org/2012/144.pdf) - Somewhat Practical Fully HomomorphicEncryption
 - [GSW schema](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryption from Learning with Errors:Conceptually-Simpler, Asymptotically-Faster, Attribute-Based
+- [HEAAN schema](https://eprint.iacr.org/2013/340.pdf) - [HEAAN schema](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryptionfor Arithmetic of Approximate Numbers
 
 
 ## Multiparty Secure Computation
