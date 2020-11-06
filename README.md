@@ -13,7 +13,7 @@ Survey papers introducing HE:
 - [Survey on Homomorphic Encryptionand Address of New Trend](https://www.semanticscholar.org/paper/Survey-on-Homomorphic-Encryption-and-Address-of-New-Alharbi-Samkri/6468cffa6d7a1fba27d4e813a0a22531757d1d8a) - With some introduction of HE's application recently.
 
 
-HE schemes:
+### HE schemes:
 - [Paillier](https://link.springer.com/chapter/10.1007/3-540-48910-X_16)(SomeWhat HE) - Public-Key Cryptosystems Based on Composite Degree Residuosity Classes
 - [BGV](https://eprint.iacr.org/2011/277.pdf) - Fully Homomorphic Encryption without Bootstrapping
 - [BV](http://www.wisdom.weizmann.ac.il/~zvikab/localpapers/IdealHom.pdf) - Fully Homomorphic Encryption from Ring-LWE and Security for Key Dependent Messages
@@ -23,12 +23,12 @@ HE schemes:
 - [HEAAN](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryptionfor Arithmetic of Approximate Numbers 
 - [HEAAN with bootstrap](https://eprint.iacr.org/2018/153.pdf) -Bootstrapping for ApproximateHomomorphic Encryption
 
-More advances in HE:
+### More advances in HE:
 - [Takeshita et. al.](https://eprint.iacr.org/2020/091.pdf) -Enabling Faster Operations for Deeper Circuitsin Full RNS Variants of FV-like SomewhatHomomorphic Encryption
 - [Chen et.al.](https://eprint.iacr.org/2020/015.pdf) -Efficient Homomorphic ConversionBetween (Ring) LWE Ciphertexts
 
 
-HE for private deep neural netowrk inferences:
+### HE for private deep neural netowrk inferences:
 
 - [CryptoNets](http://proceedings.mlr.press/v48/gilad-bachrach16.pdf) - CryptoNets: Applying Neural Networks to Encrypted Datawith High Throughput and Accuracy
 - [FHE-DiNN](https://eprint.iacr.org/2017/1114.pdf) - Fast Homomorphic Evaluation ofDeep Discretized Neural Networks
@@ -39,7 +39,7 @@ HE for private deep neural netowrk inferences:
 - [CryptoDL](https://dl.acm.org/doi/10.1145/3292006.3300044) - Low Latency Privacy Preserving Inference
 - [SHE](https://arxiv.org/pdf/1906.00148.pdf) -SHE: A Fast and Accurate Deep Neural Network forEncrypted Data
 
-HE for other models:
+### HE for other models:
 - [Hardy et. al.(Logistic Regression)](https://arxiv.org/pdf/1711.10677.pdf) - Private federated learning on vertically partitioned datavia entity resolution and additively homomorphicencryption
 - [Crawford et. al. (Logistic Regression)](https://arxiv.org/pdf/1901.08755.pdf) - Doing Real Work with FHE: The Case of Logistic Regression
 - [SecureBoost (XGBoost)](https://arxiv.org/pdf/1901.08755.pdf) - SecureBoost: A Lossless Federated Learning Framework
@@ -50,9 +50,14 @@ HE for other models:
 
 ## Multiparty Secure Computation
 
-- [Sameer Narahari Wagh (Distributed Logistic Regression)](https://snwagh.github.io/CV/thesis.pdf) - New Directions in EfficientPrivacy­Preserving Machine Learning
+- [Sameer Narahari Wagh](https://snwagh.github.io/CV/thesis.pdf) - New Directions in EfficientPrivacy­Preserving Machine Learning
 
-## MPC for Deep Learning:
+###
+
+- [Function Secret Sharing](https://cs.idc.ac.il/~elette/FunctionSecretSharing.pdf) 
+- [Function Secret Sharing:  Improvements and Extensions.](https://eprint.iacr.org/2018/707.pdf)
+
+### MPC for Deep Learning:
 
 - [SecureML](https://eprint.iacr.org/2017/396.pdf) - SecureML: A System for Scalable Privacy-PreservingMachine Learning
 - [EzPC](https://eprint.iacr.org/2017/1109.pdf) - EzPC: Programmable, Efficient, and ScalableSecure Two-Party Computation for Machine Learning
