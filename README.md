@@ -52,9 +52,7 @@ Survey papers introducing HE:
 
 - [Sameer Narahari Wagh](https://snwagh.github.io/CV/thesis.pdf) - New Directions in EfficientPrivacy­Preserving Machine Learning
 
-### 
-
-- Function Secret Sharing: 
+### Function Secret Sharing: 
 - [Function Secret Sharing](https://cs.idc.ac.il/~elette/FunctionSecretSharing.pdf)
 - [Function Secret Sharing:  Improvements and Extensions.](https://eprint.iacr.org/2018/707.pdf)
 
