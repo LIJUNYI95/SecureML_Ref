@@ -13,8 +13,8 @@ Survey papers introducing HE:
 - [Survey on Homomorphic Encryptionand Address of New Trend](https://www.semanticscholar.org/paper/Survey-on-Homomorphic-Encryption-and-Address-of-New-Alharbi-Samkri/6468cffa6d7a1fba27d4e813a0a22531757d1d8a) - With some introduction of HE's application recently.
 
 
-HE schemas:
-
+HE schemes:
+- [Paillier](https://link.springer.com/chapter/10.1007/3-540-48910-X_16)(SomeWhat HE) - Public-Key Cryptosystems Based on Composite Degree Residuosity Classes
 - [BGV](https://eprint.iacr.org/2011/277.pdf) - Fully Homomorphic Encryption without Bootstrapping
 - [BV](http://www.wisdom.weizmann.ac.il/~zvikab/localpapers/IdealHom.pdf) - Fully Homomorphic Encryption from Ring-LWE and Security for Key Dependent Messages
 - [FV](https://eprint.iacr.org/2012/144.pdf) - Somewhat Practical Fully HomomorphicEncryption
@@ -23,7 +23,7 @@ HE schemas:
 - [HEAAN](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryptionfor Arithmetic of Approximate Numbers 
 - [HEAAN with bootstrap](https://eprint.iacr.org/2018/153.pdf) -Bootstrapping for ApproximateHomomorphic Encryption
 
-HE for private inferences:
+HE for private deep neural netowrk inferences:
 
 - [CryptoNets](http://proceedings.mlr.press/v48/gilad-bachrach16.pdf) - CryptoNets: Applying Neural Networks to Encrypted Datawith High Throughput and Accuracy
 - [Faster CryptoNets](https://arxiv.org/pdf/1811.09953.pdf) - Faster CryptoNets: Leveraging Sparsity forReal-World Encrypted Inference
@@ -33,6 +33,14 @@ HE for private inferences:
 - [LoLa](https://arxiv.org/pdf/1812.10659.pdf) - Low Latency Privacy Preserving Inference
 - [SHE](https://arxiv.org/pdf/1906.00148.pdf) -SHE: A Fast and Accurate Deep Neural Network forEncrypted Data
 
+HE for other models:
+- [Hardy et. al.(Logistic Regression)](https://arxiv.org/pdf/1711.10677.pdf) - Private federated learning on vertically partitioned datavia entity resolution and additively homomorphicencryption
+- [Crawford et. al. (Logistic Regression)](https://arxiv.org/pdf/1901.08755.pdf) - Doing Real Work with FHE: The Case of Logistic Regression
+- [SecureBoost (XGBoost)](https://arxiv.org/pdf/1901.08755.pdf) - SecureBoost: A Lossless Federated Learning Framework
+- [Cheon et. al. (Cluster)](https://eprint.iacr.org/2019/465.pdf) - Towards a Practical Cluster Analysisover Encrypted Data
+- [Jaschke et. al. (Cluster)](https://eprint.iacr.org/2018/411.pdf) - Unsupervised Machine Learning on Encrypted Data
+- [Han et. al. (Cluster)](https://eprint.iacr.org/2018/662.pdf) - Efficient Logistic Regression on Large EncryptedData
+- [Li et. al. (Distributed Logistic Regression)](https://dl.acm.org/doi/10.1145/3394486.3403321) - Faster Secure Data Mining via Distributed Homomorphic Encryption
 
 ## Multiparty Secure Computation
 
