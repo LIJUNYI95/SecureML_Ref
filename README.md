@@ -27,9 +27,9 @@ HE for private inferences:
 - [CryptoNets](http://proceedings.mlr.press/v48/gilad-bachrach16.pdf) - CryptoNets: Applying Neural Networks to Encrypted Datawith High Throughput and Accuracy
 - [Faster CryptoNets](https://arxiv.org/pdf/1811.09953.pdf) - Faster CryptoNets: Leveraging Sparsity forReal-World Encrypted Inference
 - [Chimera](https://eprint.iacr.org/eprint-bin/getfile.pl?entry=2018/758&version=20180820:181811&file=758.pdf) - Chimera: a unified framework for B/FV, TFHEand HEAAN fully homomorphic encryption andpredictions for deep learning
-- [FV](https://eprint.iacr.org/2012/144.pdf) - Somewhat Practical Fully HomomorphicEncryption
-- [GSW](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryption from Learning with Errors:Conceptually-Simpler, Asymptotically-Faster, Attribute-Based
-- [HEAAN](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryptionfor Arithmetic of Approximate Numbers 
+- [TAPAS](https://arxiv.org/pdf/1806.03461.pdf) - TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service
+- [nGraph-HE](https://arxiv.org/pdf/1810.10121.pdf) - nGraph-HE: A Graph Compiler for Deep Learning onHomomorphically Encrypted Data
+- [LoLa](https://arxiv.org/pdf/1812.10659.pdf) - Low Latency Privacy Preserving Inference
 - [HEAAN with bootstrap](https://eprint.iacr.org/2018/153.pdf) -Bootstrapping for ApproximateHomomorphic Encryption
 
 
