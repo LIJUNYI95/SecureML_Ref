@@ -20,7 +20,7 @@ Survey papers introducing HE:
 - [FV](https://eprint.iacr.org/2012/144.pdf) - Somewhat Practical Fully HomomorphicEncryption
 - [GSW](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryption from Learning with Errors:Conceptually-Simpler, Asymptotically-Faster, Attribute-Based
 - [TFHE](https://eprint.iacr.org/2018/421.pdf) - TFHE: Fast Fully Homomorphic Encryptionover the Torus
-- [HEAAN](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryptionfor Arithmetic of Approximate Numbers 
+- [HEAAN(CKKS)](https://eprint.iacr.org/2013/340.pdf) - Homomorphic Encryptionfor Arithmetic of Approximate Numbers 
 - [HEAAN with bootstrap](https://eprint.iacr.org/2018/153.pdf) -Bootstrapping for ApproximateHomomorphic Encryption
 
 ### More advances in HE:
@@ -80,6 +80,7 @@ Survey papers introducing HE:
 - [SecureNN](https://eprint.iacr.org/2018/442.pdf) - SecureNN: 3-Party Secure Computation forNeural Network Training
 - [Riazi et. al.](https://arxiv.org/pdf/1902.07342.pdf) - XONN:XNOR-based Oblivious Deep Neural Network Inference
 - [Flash](https://eprint.iacr.org/2019/1365.pdf) - FLASH: Fast and Robust Framework forPrivacy-preserving Machine Learning
+- [Trident](https://arxiv.org/pdf/1912.02631.pdf) - Trident: Efficient 4PC Framework for PrivacyPreserving Machine Learning
 - [FALCON](https://arxiv.org/pdf/2004.02229.pdf) - FALCON: Honest-Majority Maliciously Secure Frameworkfor Private Deep Learning
 - [AriaNN](https://arxiv.org/pdf/2006.04593.pdf) - ARIANN: Low-Interaction Privacy-PreservingDeep Learning via Function Secret Sharing
 
