@@ -78,9 +78,11 @@ Survey papers introducing HE:
 - [GAZELLE](https://eprint.iacr.org/2018/073.pdf) - GAZELLE: A Low Latency Framework for SecureNeural Network Inference
 - [ABY3](https://eprint.iacr.org/2018/403.pdf) - ABY3:  A Mixed Protocol Framework for Machine Learning
 - [SecureNN](https://eprint.iacr.org/2018/442.pdf) - SecureNN: 3-Party Secure Computation forNeural Network Training
-- [Riazi et. al.](https://arxiv.org/pdf/1902.07342.pdf) - XONN:XNOR-based Oblivious Deep Neural Network Inference
+- [XONN](https://arxiv.org/pdf/1902.07342.pdf) - XONN:XNOR-based Oblivious Deep Neural Network Inference
 - [Flash](https://eprint.iacr.org/2019/1365.pdf) - FLASH: Fast and Robust Framework forPrivacy-preserving Machine Learning
+- [ASTRA](https://dl.acm.org/doi/abs/10.1145/3338466.3358922) - ASTRA: High Throughput 3PC over Rings with Application to Secure Prediction
 - [Trident](https://arxiv.org/pdf/1912.02631.pdf) - Trident: Efficient 4PC Framework for PrivacyPreserving Machine Learning
+- [BLAZE](https://eprint.iacr.org/2020/042.pdf) - BLAZE: Blazing Fast Privacy-Preserving MachineLearning
 - [FALCON](https://arxiv.org/pdf/2004.02229.pdf) - FALCON: Honest-Majority Maliciously Secure Frameworkfor Private Deep Learning
 - [AriaNN](https://arxiv.org/pdf/2006.04593.pdf) - ARIANN: Low-Interaction Privacy-PreservingDeep Learning via Function Secret Sharing
 
