@@ -28,7 +28,7 @@ Survey papers introducing HE:
 - [Chen et.al.](https://eprint.iacr.org/2020/015.pdf) -Efficient Homomorphic ConversionBetween (Ring) LWE Ciphertexts
 
 
-### HE for private deep neural netowrk inferences:
+### HE for private deep neural netowrk inference:
 
 - [CryptoNets](http://proceedings.mlr.press/v48/gilad-bachrach16.pdf) - CryptoNets: Applying Neural Networks to Encrypted Datawith High Throughput and Accuracy
 - [FHE-DiNN](https://eprint.iacr.org/2017/1114.pdf) - Fast Homomorphic Evaluation ofDeep Discretized Neural Networks
@@ -38,6 +38,9 @@ Survey papers introducing HE:
 - [nGraph-HE](https://arxiv.org/pdf/1810.10121.pdf) - nGraph-HE: A Graph Compiler for Deep Learning onHomomorphically Encrypted Data
 - [CryptoDL](https://dl.acm.org/doi/10.1145/3292006.3300044) - Low Latency Privacy Preserving Inference
 - [SHE](https://arxiv.org/pdf/1906.00148.pdf) -SHE: A Fast and Accurate Deep Neural Network forEncrypted Data
+
+### HE for private deep neural netowrk training:
+- [Glyph](https://arxiv.org/abs/1911.07101) - Glyph: Fast and Accurately Training Deep Neural Networks on Encrypted Data
 
 ### HE for other models:
 - [Hardy et. al.(Logistic Regression)](https://arxiv.org/pdf/1711.10677.pdf) - Private federated learning on vertically partitioned datavia entity resolution and additively homomorphicencryption
