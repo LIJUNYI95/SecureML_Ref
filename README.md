@@ -40,6 +40,7 @@ Survey papers introducing HE:
 - [SHE](https://arxiv.org/pdf/1906.00148.pdf) -SHE: A Fast and Accurate Deep Neural Network forEncrypted Data
 
 ### HE for private deep neural netowrk training:
+- [FHESGD](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Nandakumar_Towards_Deep_Neural_Network_Training_on_Encrypted_Data_CVPRW_2019_paper.pdf) - Towards Deep Neural Network Training on Encrypted Data
 - [Glyph](https://arxiv.org/abs/1911.07101) - Glyph: Fast and Accurately Training Deep Neural Networks on Encrypted Data
 
 ### HE for other models:
