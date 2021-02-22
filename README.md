@@ -38,6 +38,7 @@ Survey papers introducing HE:
 - [nGraph-HE](https://arxiv.org/pdf/1810.10121.pdf) - nGraph-HE: A Graph Compiler for Deep Learning onHomomorphically Encrypted Data
 - [CryptoDL](https://dl.acm.org/doi/10.1145/3292006.3300044) - Low Latency Privacy Preserving Inference
 - [SHE](https://arxiv.org/pdf/1906.00148.pdf) -SHE: A Fast and Accurate Deep Neural Network forEncrypted Data
+- [ZAMA](https://ppml-workshop.github.io/pdfs/Chillotti_et_al.pdf) -New Challenges for Fully Homomorphic Encryption
 
 ### HE for private deep neural netowrk training:
 - [FHESGD](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Nandakumar_Towards_Deep_Neural_Network_Training_on_Encrypted_Data_CVPRW_2019_paper.pdf) - Towards Deep Neural Network Training on Encrypted Data
