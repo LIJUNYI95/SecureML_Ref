@@ -89,7 +89,7 @@ Survey papers introducing HE:
 - [BLAZE](https://eprint.iacr.org/2020/042.pdf) - BLAZE: Blazing Fast Privacy-Preserving MachineLearning
 - [FALCON](https://arxiv.org/pdf/2004.02229.pdf) - FALCON: Honest-Majority Maliciously Secure Frameworkfor Private Deep Learning
 - [AriaNN](https://arxiv.org/pdf/2006.04593.pdf) - ARIANN: Low-Interaction Privacy-PreservingDeep Learning via Function Secret Sharing
-
+- [SWIFT](https://eprint.iacr.org/2020/592.pdf) - SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning
 ### MPC for other models:
 
 - [SANNS(KNN)](https://arxiv.org/pdf/1904.02033.pdf) - SANNS:Scaling Up Secure Approximatek-Nearest Neighbors Search
