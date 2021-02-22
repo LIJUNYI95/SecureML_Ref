@@ -88,6 +88,7 @@ Survey papers introducing HE:
 - [ASTRA](https://dl.acm.org/doi/abs/10.1145/3338466.3358922) - ASTRA: High Throughput 3PC over Rings with Application to Secure Prediction
 - [Trident](https://arxiv.org/pdf/1912.02631.pdf) - Trident: Efficient 4PC Framework for PrivacyPreserving Machine Learning
 - [BLAZE](https://eprint.iacr.org/2020/042.pdf) - BLAZE: Blazing Fast Privacy-Preserving MachineLearning
+- [DELPHI](https://eprint.iacr.org/2020/050.pdf) - DELPHI: A Cryptographic Inference Service for Neural Networks
 - [FALCON](https://arxiv.org/pdf/2004.02229.pdf) - FALCON: Honest-Majority Maliciously Secure Frameworkfor Private Deep Learning
 - [AriaNN](https://arxiv.org/pdf/2006.04593.pdf) - ARIANN: Low-Interaction Privacy-PreservingDeep Learning via Function Secret Sharing
 - [SWIFT](https://eprint.iacr.org/2020/592.pdf) - SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning
