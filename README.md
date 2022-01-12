@@ -1,7 +1,7 @@
 # Awesome Secure-Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-> A curated list of source of secure machine learning
+> A curated list of source of secure machine learning. (Feel Free to send a pull request if you have new papers to add.)
 
 
 
